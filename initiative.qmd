@@ -4,4 +4,4 @@ title: "Initiative"
 
 About Initiative
 
-See <https://vanheemstrasystems.github.io/learning-server-side-web-security-initiative/>
+See <https://vanheemstrasystems.github.io/learning-client-side-web-security-initiative/>
