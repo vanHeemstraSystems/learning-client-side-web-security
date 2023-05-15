@@ -1,5 +1,5 @@
 ---
-title: "Learning - Server-Side Web Security"
+title: "Learning - Client-Side Web Security"
 ---
 
 This is a Quarto website.
