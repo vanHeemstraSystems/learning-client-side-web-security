@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Server-Side Web Security](README.md)
+* [Learning Client-Side Web Security](README.md)
