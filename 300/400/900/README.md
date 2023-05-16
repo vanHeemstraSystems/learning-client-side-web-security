@@ -5,4 +5,5 @@ Go back and do more verbal, analytic learning. Now is the time to answer those q
 | Theme | Description |
 | --- | --- |
 | Cross-Site Scripting | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/28/views/1?layout=board&pane=issue&itemId=28311746 |
-| Cross-Site Request Forgery | See on Project Board: "Step 1: Get the Big Picture" at https://github.com/orgs/vanHeemstraSystems/projects/29/views/1?layout=board&pane=issue&itemId=28314125 |
+| Cross-Site Request Forgery | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/29/views/1?layout=board&pane=issue&itemId=28314125 |
+| Cross-Origin Resource Sharing | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/30/views/1?layout=board&pane=issue&itemId=28315652 |
