@@ -2,6 +2,8 @@
 
 Limit the size of what you want to learn. "Physics" or "philosophy" is too wide and will take decades.
 
-We'll go for "SQL Injection", and "Authentication" respectively.
+We'll go for "Cross-Site Scripting", and "..." respectively.
 
-See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/17/views/1?layout=board&pane=issue&itemId=28202282
+| Theme | Description |
+| --- | --- |
+| Cross-Site Scripting | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/28/views/1?layout=board&pane=issue&itemId=28310888 |
