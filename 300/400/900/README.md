@@ -9,3 +9,4 @@ Go back and do more verbal, analytic learning. Now is the time to answer those q
 | Cross-Origin Resource Sharing | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/30/views/1?layout=board&pane=issue&itemId=28315652 |
 | Clickjacking | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/31/views/1?layout=board&pane=issue&itemId=28317499 |
 | DOM-Based Vulnerabilities | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/32/views/1?layout=board&pane=issue&itemId=28320044 |
+| WebSockets | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/33/views/1?layout=board&pane=issue&itemId=28321411 |
