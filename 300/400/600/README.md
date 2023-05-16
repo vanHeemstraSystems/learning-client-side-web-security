@@ -7,3 +7,4 @@ With your plan in mind, narrow down your resource list (Step 4) to the most impo
 | Cross-Site Scripting | See on Project Board: "Step 6: Filter Resources" at https://github.com/orgs/vanHeemstraSystems/projects/28/views/1?layout=board&pane=issue&itemId=28311421 |
 | Cross-Site Request Forgery | See on Project Board: "Step 6: Filter Resources" at https://github.com/orgs/vanHeemstraSystems/projects/29/views/1?layout=board&pane=issue&itemId=28313775 |
 | Cross-Origin Resource Sharing | See on Project Board: "Step 6: Filter Resources" at https://github.com/orgs/vanHeemstraSystems/projects/30/views/1?layout=board&pane=issue&itemId=28315306 |
+| Clickjacking | See on Project Board: "Step 6: Filter Resources" at https://github.com/orgs/vanHeemstraSystems/projects/31/views/1?layout=board&pane=issue&itemId=28317147 |
