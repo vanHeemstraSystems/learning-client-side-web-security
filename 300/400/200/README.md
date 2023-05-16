@@ -2,7 +2,7 @@
 
 Limit the size of what you want to learn. "Physics" or "philosophy" is too wide and will take decades.
 
-We'll go for "Cross-Site Scripting", and "..." respectively.
+We'll go for "Cross-Site Scripting", and "Cross-Site Request Forgery" respectively.
 
 | Theme | Description |
 | --- | --- |
