@@ -3,6 +3,11 @@
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
 ![Learning-Client-Side-Web-Security-Cross-Site-Scripting_User-Stories](https://github.com/vanHeemstraSystems/learning-client-side-web-security/assets/1499433/fc64cc67-cc5d-42a4-b519-a5f14556e735)
+![Learning-Client-Side-Web-Security-Cross-Site-Request-Forgery_User-Stories](https://github.com/vanHeemstraSystems/learning-client-side-web-security/assets/1499433/84fddfc9-1bf7-44ac-8bc1-8cb7594c148c)
+![Learning-Client-Side-Web-Security-Cross-Site-Resource-Sharing_User-Stories](https://github.com/vanHeemstraSystems/learning-client-side-web-security/assets/1499433/82231580-6219-4a4b-a780-853e0fd0c8da)
+![Learning-Client-Side-Web-Security-Clickjacking_User-Stories](https://github.com/vanHeemstraSystems/learning-client-side-web-security/assets/1499433/5688fb0b-0932-4673-9185-aca0e4174614)
+![Learning-Client-Side-Web-Security-DOM-Based-Vulnerabilities_User-Stories](https://github.com/vanHeemstraSystems/learning-client-side-web-security/assets/1499433/27e815e1-8a6f-4bd2-8faa-e4a25ac92d6f)
+![Learning-Client-Side-Web-Security-WebSockets_User-Stories](https://github.com/vanHeemstraSystems/learning-client-side-web-security/assets/1499433/d0af4b8e-2717-4631-a2c1-9b55dc81c27e)
 
 **Planning Your Minimum Viable Product (MVP)**
 
