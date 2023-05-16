@@ -7,3 +7,4 @@ We'll go for "Cross-Site Scripting", and "Cross-Site Request Forgery" respective
 | Theme | Description |
 | --- | --- |
 | Cross-Site Scripting | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/28/views/1?layout=board&pane=issue&itemId=28310888 |
+| Cross-Site Request Forgery | See on Project Board: "Step 1: Get the Big Picture" at https://github.com/orgs/vanHeemstraSystems/projects/29/views/1?layout=board&pane=issue&itemId=28313202 |
