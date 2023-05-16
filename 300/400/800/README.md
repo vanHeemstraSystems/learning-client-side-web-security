@@ -10,3 +10,4 @@ See "Self-Education" at https://github.com/vanHeemstraSystems/self-education
 | Cross-Site Request Forgery | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/29/views/1?layout=board&pane=issue&itemId=28314006 |
 | Cross-Origin Resource Sharing | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/30/views/1?layout=board&pane=issue&itemId=28315458 |
 | Clickjacking | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/31/views/1?layout=board&pane=issue&itemId=28317363 |
+| DOM-Based Vulnerabilities | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/32/views/1?layout=board&pane=issue&itemId=28319946 |
