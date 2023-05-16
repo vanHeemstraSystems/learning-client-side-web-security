@@ -6,6 +6,7 @@ Gather resources from the Internet, libraries, forums, etc. that might be useful
 | --- | --- |
 | Cross-Site Scripting | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/28/views/1?layout=board&pane=issue&itemId=28311243 |
 | Cross-Site Request Forgery | See on Project Board: "Step 1: Get the Big Picture" at https://github.com/orgs/vanHeemstraSystems/projects/29/views/1?layout=board&pane=issue&itemId=28313426 |
+| Cross-Origin Resource Sharing | See on Project Board: "Step 1: Get the Big Picture" at https://github.com/orgs/vanHeemstraSystems/projects/30/views/1?layout=board&pane=issue&itemId=28314984 |
 
 ## Add Images to Pinterest
 
