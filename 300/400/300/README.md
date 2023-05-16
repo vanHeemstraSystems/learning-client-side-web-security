@@ -9,3 +9,4 @@ Make a clear goal for your learning so you'll know when you get there.
 | Cross-Origin Resource Sharing | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/30/views/1?layout=board&pane=issue&itemId=28314909 |
 | Clickjacking | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/31/views/1?layout=board&pane=issue&itemId=28316610 |
 | DOM-Based Vulnerabilities | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/32/views/1?layout=board&pane=issue&itemId=28318286 |
+| WebSockets | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/33/views/1?layout=board&pane=issue&itemId=28320635 |
