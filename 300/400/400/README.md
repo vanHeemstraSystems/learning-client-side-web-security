@@ -2,7 +2,9 @@
 
 Gather resources from the Internet, libraries, forums, etc. that might be useful for your learning project.
 
-See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/17/views/1?layout=board&pane=issue&itemId=28202808
+| Theme | Description |
+| --- | --- |
+| Cross-Site Scripting | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/28/views/1?layout=board&pane=issue&itemId=28311243 |
 
 ## Add Images to Pinterest
 
