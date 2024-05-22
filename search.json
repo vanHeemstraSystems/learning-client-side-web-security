@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
+    "section": "",
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-client-side-web-security-use-cases/"
+  },
+  {
     "objectID": "themes.html",
     "href": "themes.html",
     "title": "Themes",
     "section": "",
     "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-client-side-web-security-themes/"
-  },
-  {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
-    "section": "",
-    "text": "Table of contents\n\nLearning Client-Side Web Security"
   },
   {
     "objectID": "index.html",
@@ -21,13 +21,6 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "initiative.html",
-    "href": "initiative.html",
-    "title": "Initiative",
-    "section": "",
-    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-client-side-web-security-initiative/"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -35,10 +28,17 @@
     "text": "About this site"
   },
   {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
     "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-client-side-web-security-use-cases/"
+    "text": "Table of contents\n\nLearning Client-Side Web Security"
+  },
+  {
+    "objectID": "initiative.html",
+    "href": "initiative.html",
+    "title": "Initiative",
+    "section": "",
+    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-client-side-web-security-initiative/"
   }
 ]
